@@ -10,8 +10,8 @@ Member of Department of Telecommunication System<br>Third-Year Student from Facu
 # 📊 GitHub Stats:
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.shion.dev/api?username=leonas-kratos&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="330"/></td>
-    <td><img src="https://streak-stats.demolab.com/?user=leonas-kratos&theme=dark&hide_border=false" width="390"/></td>
+    <td><img src="https://github-readme-stats.shion.dev/api?username=leonas-kratos&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="400"/></td>
+    <td><img src="https://streak-stats.demolab.com/?user=leonas-kratos&theme=dark&hide_border=false" width="420"/></td>
   </tr>
 </table>
 
