@@ -11,7 +11,7 @@ Member of Department of Telecommunication System<br>Third-Year Student from Facu
 <table>
   <tr>
     <td><img src="https://readme-stats-one-mu.vercel.app/api?username=leonas-kratos&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400" width="400"/></td>
-    <td><img src="https://streak-stats.demolab.com/?user=leonas-kratos&theme=dark&hide_border=false&cache_seconds=86400" width="420"/></td>
+    <td><img src="https://streak-stats.demolab.com/?user=leonas-kratos&theme=dark&hide_border=false&cache_seconds=3600" width="420"/></td>
   </tr>
 </table>
 
