@@ -1,5 +1,5 @@
 # 💫 About Me:
-Member of Department of Telecommunication System<br>Third-Year Student from Faculty of Electronic and Communication, UET - VNU
+Member of Department of Telecommunication System<br>Final-Year Student from Faculty of Electronic and Communication, UET - VNU
 
 
 ## 🌐 Socials:
